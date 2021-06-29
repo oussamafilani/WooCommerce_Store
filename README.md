@@ -8,7 +8,7 @@
 
 - [all products](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/all%20products.pdf)
 
-- [categories](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/categories.png)
+- [categories](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/categories.pdf)
 
 - [coupon](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/coupon.pdf)
 
