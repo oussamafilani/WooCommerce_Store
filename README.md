@@ -2,7 +2,7 @@
 
 ## Template i used to make this website
 
-- [template](https://woostify.com/){:target="\_blank" rel="noopener"}
+- [template](https://woostify.com/)
 
 ## Website captions
 
