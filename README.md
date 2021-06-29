@@ -6,17 +6,17 @@
 
 ## Website captions
 
-- [all products]()
+- [all products](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/all%20products.pdf)
 
-- [categories]()
+- [categories](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/categories.png)
 
-- [coupon]()
+- [coupon](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/coupon.pdf)
 
-- [homepage]()
+- [homepage](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/home%20page.pdf)
 
-- [translation]()
+- [translation](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/translation.pdf)
 
-- [variation]()
+- [variation](https://github.com/filani07/WooCommerce_Store/blob/main/Pages/variation.pdf)
 
 ## Steps
 
